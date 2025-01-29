@@ -22,3 +22,13 @@ there are 4 different shipping mode available: second class, standard class, fir
 the average sales is 230.8 and most of the sales come from the south and east region
 technology has the highest sales by product category
 standard class has the highest patronage in all the regions
+
+
+Actionable recommendations based on the analysis
+
+since more sales come from Technology, more focus should be on it
+standard class should be used in all the regions
+more focus should be on office supllies
+more focus should also be on New York
+more focus should also be on the West region
+For customer satisfaction, we recommend that products should be delivered on the first day or using either the first or the second class shipping more which took 2 to 3 days instead of using the standard class shipping mode which too 5 days to be delivered, and it was used for all the regions which can lead to customer dissatisfaction. This will encourage the customer to order more products where the delivery time is optimal.
