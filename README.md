@@ -3,6 +3,8 @@ conducting an exploratory data analysis (EDA) on the company's sales dataset. Th
 is to derive meaningful insights and patterns that can inform strategic decisions. The dataset 
 comprises information on orders, customers, products, and shipping details.
 At the end of the data analysis, the following insight was gotten based on the Business School Performance:
+
+
 SUMMARY OF KEY FINDINGS
 
 the count od sales is 9800.000000, mean sale is 230.769059, the minimum sale is 0.444000  and the maximum sale is 22638.480000
