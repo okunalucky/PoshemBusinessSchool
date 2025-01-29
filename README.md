@@ -3,7 +3,7 @@ conducting an exploratory data analysis (EDA) on the company's sales dataset. Th
 is to derive meaningful insights and patterns that can inform strategic decisions. The dataset 
 comprises information on orders, customers, products, and shipping details.
 At the end of the data analysis, the following insight was gotten based on the Business School Performance:
-
+SUMMARY OF KEY FINDINGS
 
 the count od sales is 9800.000000, mean sale is 230.769059, the minimum sale is 0.444000  and the maximum sale is 22638.480000
 there are 4922 unique orders
@@ -19,4 +19,4 @@ home office has the highest average order value of 243.4
 there are 4 different shipping mode available: second class, standard class, first class and same day
 the average sales is 230.8 and most of the sales come from the south and east region
 technology has the highest sales by product category
-standard class has the highest patronage in all the regions.
+standard class has the highest patronage in all the regions
